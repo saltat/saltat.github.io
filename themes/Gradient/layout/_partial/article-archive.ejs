@@ -4,7 +4,8 @@
     <div class="thumb" style="background-image: url(<%- config.root %><%- item.path %><%- item.featured_image %>);"></div>
     <% } else {%>
     <div class="thumb" style="background-image: url(<%- config.root %><%- item.featured_image || theme.featured_image %>);"></div>
-    <% }%>    <article>
+    <% }%>
+    <article>
       <h1>
         <%=item.title %>
       </h1>
