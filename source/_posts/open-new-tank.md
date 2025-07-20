@@ -31,15 +31,19 @@ Moreover, you can see a net covering on the top of the tank, this is something s
 Before dealing with the heavy stones and constructing the skeleton, we need to think about our target--or, the function of the landscaping. This tank is gona be the home of bitterlings, so all designs are centered around being comfortable to bitterlings.
 
 With this in mind, we can come out with following ideas:
- -there should be some aquatic plants, like those in the habitats. Not only mimic the nature environment, but also provide shelter for smaller fish and shrimps
- -some sands are required
- -leave the main space to fish, instead of plants or stones
- -water current is needed to bring fish poop away and mimic the current in streams
- -the landscaping should be as simple and maintainable as possible, because we do not want to put to much energy dealing with it but fish instead
+> - there should be some aquatic **plants**, like those in the habitats. Not only mimic the nature environment, but also provide shelter for smaller fish and shrimps
+>
+> - some **sands** are required
+>
+> - leave the main space to **fish**, instead of plants or stones
+>
+> - **water current** is needed to bring fish poop away and mimic the current in streams
+>
+> - the landscaping should be as **simple and maintainable** as possible, because we do not want to put to much energy dealing with it but fish instead
 
 ### Designing landscaping
 #### Water Flow
-Now we can start our designing.let's design with the water pump at the right rear corner and water outlet at the top left corner, water will flow from the top lect corner to the front and sink, then go back to the pump. 
+Now we can start our designing. let's design with the water pump at the right rear corner and water outlet at the top left corner, water will flow from the top lect corner to the front and sink, then go back to the pump. 
 
 However, we can see that the water flow of the back area is still week, so we can put the outlet of the oil film remover at the top left corner, and then place it toward left, creating a leftward current in the back area.
 
@@ -66,7 +70,7 @@ I mean, things like this
 
 Based on above thoughts, I choose 3-5mm sands as subbed. It is neither too big nor too small. It's too heavy to flow with water current in the tank and into the pump, but small enough to creat a smooth slope and avoid sedimenting too much debris.
 
-For plantation, I choose tape grass (Vallisneria natans) and dwarf sagittaria (Sagittaria subulata), which are both resilient. Tape grass can grow really high, and reproduce through stolon, so we can plant a few at the back corner, and let is grow freely. Dwarf sagittaria is smaller, and can be planted between stones, to make the environment looks more lush with vegetations without encroaching upon bitterlings' swimming space.
+For plantation, I choose tape grass (*Vallisneria natans*) and dwarf sagittaria (*Sagittaria subulata*), which are both resilient. Tape grass can grow really high, and reproduce through stolon, so we can plant a few at the back corner, and let is grow freely. Dwarf sagittaria is smaller, and can be planted between stones, to make the environment looks more lush with vegetations without encroaching upon bitterlings' swimming space.
 
 ### Contructing
 #### Main stones
@@ -82,11 +86,15 @@ Don't worry about the exposed vestige, they will be covered by sands and algae s
 Then, we can add some saperated cobblestones to the tank. They don't need to follow strict rules. You can just place them at places look comfortable. Sometimes if you feel a bit awkward of the stones, you can imagine what they will look like after adding sands.
 
 Some times adjustments are needed. There are some tips:
- -Never place all stone in a straight line
- -If there's a large empty space (several times than a stone), then you can place one
- -Place the stones in the most stable ways
- -Do not use too big stones, as you want is to fit in the whole landscaping
- -Never stick it until you final confirm their location
+> - Never place all stone in a **straight line**
+>
+> - If there's a **large empty space** (several times than a stone), then you can place one
+>
+> - Place the stones in the most **stable** ways
+>
+> - **Do not use too big stones**, as you want is to fit in the whole landscaping
+>
+> - Never stick it **until** you final confirm their location
 
 ![](IMG_20250119_223818.jpg)
 
