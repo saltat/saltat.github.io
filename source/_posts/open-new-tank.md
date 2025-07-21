@@ -1,5 +1,5 @@
 ---
-title: open new tank
+title: Open New Tank
 subtitle: a 40*40*40cm tank for bitterlings in this winter
 date: 2025-01-24 14:53:08
 tags: 
@@ -15,8 +15,8 @@ This is a recording of how I opened a small tank to raise some bitterlings. Befo
 
 Now it's the time to go to the point.
 
-## Opening process
-### Installing foundamental devices
+## Opening Process
+### Installing Foundamental Devices
 The first step is to place the tank on the shelf and install all the necessary devices. The device list can be seen at the end of the passage.
 
 ![](IMG_20250118_235005.jpg)
@@ -27,7 +27,7 @@ Besides, There's a black backbround film, which is helpful for the coloration of
 
 Moreover, you can see a net covering on the top of the tank, this is something special for native tanks. It's funtion there is to protect fish from jumping out of the water: this is really common among wild fish, even without being frightened.
 
-### Brainsrotming landscaping thoughts
+### Brainsrotming Landscaping Thoughts
 Before dealing with the heavy stones and constructing the skeleton, we need to think about our target--or, the function of the landscaping. This tank is gona be the home of bitterlings, so all designs are centered around being comfortable to bitterlings.
 
 With this in mind, we can come out with following ideas:
@@ -41,7 +41,7 @@ With this in mind, we can come out with following ideas:
 >
 > - the landscaping should be as **simple and maintainable** as possible, because we do not want to put to much energy dealing with it but fish instead
 
-### Designing landscaping
+### Designing Landscaping
 #### Water Flow
 Now we can start our designing. let's design with the water pump at the right rear corner and water outlet at the top left corner, water will flow from the top lect corner to the front and sink, then go back to the pump. 
 
@@ -49,7 +49,7 @@ However, we can see that the water flow of the back area is still week, so we ca
 
 Thus, a fine water current in the tank is established, which could bring fresh and oxygen-abundant water to the whole tank.
 
-#### Main skeleton
+#### Main Skeleton
 Main stones, the big stones in the tank, form the skeleton of the landscaping in the tank. 
 
 We do not want to have too complex landscaping in this tank. It will creat many dead water zone and sediment things like fish poop. Instead, it should be smooth. I mean, if we've got a slope, then we do not want many stairs or fissures on it, and water can thus flow smoothly and bring away all organic detritus to the filter.
@@ -58,7 +58,7 @@ So, to adapt the water flow, it's a good idea to place the big stones at the lef
 
 Moreover, for the smaller stones, instead of trying to have a fine design, I believe that it's better to have some try when placing stones.
 
-#### Sands and plants
+#### Sands and Plants
 The criteria for choosing them is maintainability and native habitat. Let's consider them separately.
 
 Firstly, for maintainability. We definitely do not want to use mud or really short grained sands. It is not a easy thing to keep them staying at where they should be. They may just be raised when fish fighting or foraging, making the water epinephelos and damage the pump. Moreover, for plants, no one would like to plant those can easily die. We want to find some plants that are really resilient.
@@ -73,7 +73,7 @@ Based on above thoughts, I choose 3-5mm sands as subbed. It is neither too big n
 For plantation, I choose tape grass (*Vallisneria natans*) and dwarf sagittaria (*Sagittaria subulata*), which are both resilient. Tape grass can grow really high, and reproduce through stolon, so we can plant a few at the back corner, and let is grow freely. Dwarf sagittaria is smaller, and can be planted between stones, to make the environment looks more lush with vegetations without encroaching upon bitterlings' swimming space.
 
 ### Contructing
-#### Main stones
+#### Main Stones
 Never forget to pad grid plate at the bottom of the tank, or the heavy stones might brake the glass
 
 The first step is to have a overall structure made by big stones. Stones are carefully sticked by polystyrene foam.
@@ -82,7 +82,7 @@ The first step is to have a overall structure made by big stones. Stones are car
 
 Don't worry about the exposed vestige, they will be covered by sands and algae soon.
 
-#### Small stones
+#### Small Stones
 Then, we can add some saperated cobblestones to the tank. They don't need to follow strict rules. You can just place them at places look comfortable. Sometimes if you feel a bit awkward of the stones, you can imagine what they will look like after adding sands.
 
 Some times adjustments are needed. There are some tips:
@@ -118,20 +118,20 @@ The right method is just to separate each individual grass, remove the dead leav
 
 Though it looks not luxuriant now, you will get a whole tank of green leaves after a month.
 
-#### Adding water and cleaning up
+#### Adding Water and Cleaning Up
 Everything is ready now, so it's time to clean the sands on rocks and fill it up with water.
 
 ![](IMG_20250124_173544.jpg)
 
-### Testing system
+### Testing System
 This is a simple but necessary step. Plug in all your devices and open all switches. Find out if there are something not working or making abnormal noises, which indicates a potential failure point. Besides, make sure the water current is strong enough, or there might be some blockages or bubbles in your pipes.
 
 ![](IMG_20250124_171800.jpg)
 
-### Establishing nitrification system
+### Establishing Nitrification System
 This is another story, including some problems and surprise, and I will write another blog for it.
 
-## Equipment used
+## Equipment Used
 Mi Shanhai 10W water pump, 800L/H
 then replaced by Atman AT-304s 8W 800L/H pump due to noise
 Sensen HW-604B external filtration
