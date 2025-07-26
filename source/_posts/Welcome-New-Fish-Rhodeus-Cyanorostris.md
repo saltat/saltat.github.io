@@ -1,7 +1,7 @@
 ---
 title: Welcome New Fish--Rhodeus Cyanorostris
 summary: I had hoped to own these small fish for several months, but it is endangered, so I didn't buy it. It was a few weeks before my birthday, my friends' company started to sell the artificial breeding individuals, and my best friend bought some for me. What a BIRTHDAY SURPRISE!!!!
-date: 2025-07-26 22:10:43
+date: 2025-03-20 22:10:43
 tags:
   - bitterlings
   - new fish
