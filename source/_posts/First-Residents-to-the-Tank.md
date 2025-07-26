@@ -1,7 +1,7 @@
 ---
 title: First Residents to the Tank
 date: 2025-03-08 08:50:23
-Summary: An introduction of first froup of creatures I added to my tank
+summary: An introduction of first froup of creatures I added to my tank
 tags: 
   - bitterlings
   - new fish
